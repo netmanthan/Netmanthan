@@ -1,0 +1,8 @@
+netmanthan/public/js/lib/*
+netmanthan/public/js/netmanthan/misc/tests/*
+netmanthan/public/js/netmanthan/views/test_runner.js
+netmanthan/core/doctype/doctype/boilerplate/*
+netmanthan/core/doctype/report/boilerplate/*
+netmanthan/public/js/netmanthan/class.js
+netmanthan/templates/includes/*
+netmanthan/www/website_script.js
